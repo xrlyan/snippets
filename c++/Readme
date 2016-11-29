@@ -1,0 +1,2 @@
+Compile for multiple thread
+g++ -pthread -o mt mt.cpp
